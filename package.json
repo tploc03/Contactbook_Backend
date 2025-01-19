@@ -15,7 +15,10 @@
   "devDependencies": {
     "eslint": "^9.18.0",
     "eslint-config-prettier": "^10.0.1",
+<<<<<<< HEAD
     "nodemon": "^3.1.9",
+=======
+>>>>>>> af241cc85f507de40d2b6e44dcc2f45d5d3fc17b
     "prettier": "^3.4.2"
   }
 }
